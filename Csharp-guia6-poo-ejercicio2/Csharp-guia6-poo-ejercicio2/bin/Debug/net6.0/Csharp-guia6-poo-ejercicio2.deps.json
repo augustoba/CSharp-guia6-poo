@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Csharp-guia6-poo-ejercicio2/1.0.0": {
+        "runtime": {
+          "Csharp-guia6-poo-ejercicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp-guia6-poo-ejercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
