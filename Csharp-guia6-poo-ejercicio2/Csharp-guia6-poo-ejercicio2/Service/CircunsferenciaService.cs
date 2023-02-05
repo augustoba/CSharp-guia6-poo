@@ -20,7 +20,7 @@ namespace Csharp_guia6_poo_ejercicio2.Service
 
         public double calcularArea(Circunsferencia circunsferencia)
         {
-            double Area = 3.14 *( circunsferencia.getRadio()* circunsferencia.getRadio());
+            double Area = 3.14 *(circunsferencia.getRadio() * circunsferencia.getRadio());
             return Area;
         }
 
