@@ -1,0 +1,15 @@
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\bin\Debug\net6.0\Csharp-guia6-poo-ejercicio1.exe
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\bin\Debug\net6.0\Csharp-guia6-poo-ejercicio1.deps.json
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\bin\Debug\net6.0\Csharp-guia6-poo-ejercicio1.runtimeconfig.json
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\bin\Debug\net6.0\Csharp-guia6-poo-ejercicio1.dll
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\bin\Debug\net6.0\Csharp-guia6-poo-ejercicio1.pdb
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.csproj.AssemblyReference.cache
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.AssemblyInfoInputs.cache
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.AssemblyInfo.cs
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.csproj.CoreCompileInputs.cache
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.dll
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\refint\Csharp-guia6-poo-ejercicio1.dll
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.pdb
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\Csharp-guia6-poo-ejercicio1.genruntimeconfig.cache
+D:\programacion\C#\c# guia 5\Csharp-guia6-poo-ejercicio1\Csharp-guia6-poo-ejercicio1\obj\Debug\net6.0\ref\Csharp-guia6-poo-ejercicio1.dll
