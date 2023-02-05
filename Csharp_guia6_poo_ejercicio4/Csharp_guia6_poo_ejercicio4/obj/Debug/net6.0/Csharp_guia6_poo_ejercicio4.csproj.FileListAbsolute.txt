@@ -1,0 +1,15 @@
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\bin\Debug\net6.0\Csharp_guia6_poo_ejercicio4.exe
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\bin\Debug\net6.0\Csharp_guia6_poo_ejercicio4.deps.json
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\bin\Debug\net6.0\Csharp_guia6_poo_ejercicio4.runtimeconfig.json
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\bin\Debug\net6.0\Csharp_guia6_poo_ejercicio4.dll
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\bin\Debug\net6.0\Csharp_guia6_poo_ejercicio4.pdb
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.csproj.AssemblyReference.cache
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.AssemblyInfoInputs.cache
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.AssemblyInfo.cs
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.csproj.CoreCompileInputs.cache
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.dll
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\refint\Csharp_guia6_poo_ejercicio4.dll
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.pdb
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\Csharp_guia6_poo_ejercicio4.genruntimeconfig.cache
+D:\programacion\C#\guia 6 POO\Csharp_guia6_poo_ejercicio4\Csharp_guia6_poo_ejercicio4\obj\Debug\net6.0\ref\Csharp_guia6_poo_ejercicio4.dll
